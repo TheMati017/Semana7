@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana 7</string>
+    <string name="titulo_imagen">1. Thread: descarga de imagen</string>
+    <string name="desc_imagen">Imagen descargada desde internet</string>
+    <string name="btn_descargar">Descargar imagen</string>
+    <string name="estado_inicial">Sin descargar</string>
+    <string name="titulo_tarea">2. Thread: tarea en segundo plano</string>
+    <string name="btn_tarea">Iniciar tarea</string>
+    <string name="progreso_inicial">Progreso: 0%</string>
+    <string name="titulo_sensor">3. Sensor: vector de rotación</string>
+    <string name="sensor_esperando">Esperando datos del sensor…</string>
+    <string name="sensor_no_disponible">Este dispositivo no tiene sensor de vector de rotación.</string>
+</resources>
